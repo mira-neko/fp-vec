@@ -1,0 +1,9 @@
+[package]
+name = "fp-vec"
+version = "0.1.0"
+edition = "2021"
+description = "Functional programming features for Vecs and slices."
+authors = ["Мира Лущаева <miralushch@gmail.com>"]
+license = "MIT"
+
+[dependencies]
